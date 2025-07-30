@@ -1,0 +1,6 @@
+build/
+huffman
+huffman.exe
+*.o
+*.huf
+recovered*
